@@ -12,5 +12,5 @@ with open('001.txt', 'r') as txtfile:
         counter += 1
         print(counter, line)
 
-print(lst)
+
 print(content)
